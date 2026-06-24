@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Minihanov.Praktik.Core/Minihanov.Praktik.Core.csproj" Id="bdfcf6b6-b308-490f-bab9-1688dd07a2ef" />
+  <Project Path="Minihanov.Praktik1.Tests/Minihanov.Praktik1.Tests.csproj" Id="7a8c14f8-89dc-458d-ad9e-f64b18d23daf" />
+  <Project Path="Minihanov.Praktik1/Minihanov.Praktik1.csproj" Id="439277ca-8dda-401d-a10c-162a97d098b5" />
+</Solution>
